@@ -1,0 +1,14 @@
+C:\Users\akash.singh\source\repos\Assignments\Assignments\bin\Debug\net8.0\Assignments.exe
+C:\Users\akash.singh\source\repos\Assignments\Assignments\bin\Debug\net8.0\Assignments.deps.json
+C:\Users\akash.singh\source\repos\Assignments\Assignments\bin\Debug\net8.0\Assignments.runtimeconfig.json
+C:\Users\akash.singh\source\repos\Assignments\Assignments\bin\Debug\net8.0\Assignments.dll
+C:\Users\akash.singh\source\repos\Assignments\Assignments\bin\Debug\net8.0\Assignments.pdb
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfoInputs.cache
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.AssemblyInfo.cs
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.csproj.CoreCompileInputs.cache
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.dll
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\refint\Assignments.dll
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.pdb
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\Assignments.genruntimeconfig.cache
+C:\Users\akash.singh\source\repos\Assignments\Assignments\obj\Debug\net8.0\ref\Assignments.dll
