@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Apitest.Controllers.UserController",
+    "Method": "GetUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
